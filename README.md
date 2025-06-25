@@ -36,9 +36,7 @@ HAPPY-BIRTHDAY-Shivansh/
 ![image](https://github.com/user-attachments/assets/31f7ed9c-774b-4d70-9725-74d588d0b3ca)
 
 ---
-## Credits
+## 🙏 Credits
 
-Made with ❤️ for **Shivansh**.
-
----
-
+This project is based on [HAPPY-BIRTHDAY--v2](https://github.com/Aoudumber-Bade/HAPPY-BIRTHDAY--v2) by [@Aoudumber-Bade](https://github.com/Aoudumber-Bade).  
+Modified and customized for Shivansh's birthday.
